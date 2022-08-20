@@ -39,5 +39,7 @@ Simple store, managed by MERN stack - Open-Source, MIT license.
  2. `yarn`
  3. `yarn start`
 
+<br />
+
 ---
 Rocket eCommerce - simple MERN ecommerce solution provided by [AppSeed](https://appseed.us)
